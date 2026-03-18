@@ -1,0 +1,8 @@
+{
+  "id": "external-auth",
+  "name": "External Authentication",
+  "description": "Authenticate with external user system",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "icon": "https://your-domain.com/icon.png"
+}
