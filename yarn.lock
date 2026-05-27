@@ -17913,7 +17913,7 @@ __metadata:
     y-prosemirror: "npm:^1.3.7"
     y-protocols: "npm:^1.0.6"
     yauzl: "npm:^3.2.0"
-    yjs: "npm:^13.6.1"
+    yjs: "npm:^13.6.30"
     zod: "npm:^4.2.1"
   languageName: unknown
   linkType: soft
@@ -23367,12 +23367,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yjs@npm:^13.6.1":
-  version: 13.6.27
-  resolution: "yjs@npm:13.6.27"
+"yjs@npm:^13.6.30":
+  version: 13.6.30
+  resolution: "yjs@npm:13.6.30"
   dependencies:
     lib0: "npm:^0.2.99"
-  checksum: 10c0/f89520fed12816f9e56db0626189e39c9b913e51d24233c3190ceadee9913fc013f438b7cd0a945f2c151ab76e7474eca9d95631e32fdbe581b151ad14afeaae
+  checksum: 10c0/98ec3c85fdb8420fe250e86e66676d7421dd4c1960319409a39e6ae90d05dc967793b67705736751633d8b22e334dba51a1404ad83139300c0be42195f068261
   languageName: node
   linkType: hard
 
